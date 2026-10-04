@@ -2,7 +2,7 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 # Venue Explorer - Assignment 08
 
-Deployed website: https://swdevprac2-69-1-a08-swdevprac2-69-1.vercel.app
+Deployed website: https://swdevprac2-69-1-a08-swdevprac2-69-1-sable.vercel.app/
 
 ## Getting Started
 
